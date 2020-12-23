@@ -1,0 +1,24 @@
+html{
+    font-size: 0.8rem;
+    font-family: 'Lato', sans-serif;
+}
+:root{
+    --text-center:center;
+    --text-left:left;
+    --color-white:#fff;
+    --color-green:#80B435;
+}
+.grid{
+    width:1170px;
+    max-width: 100%;
+    margin:auto;
+    
+}
+
+.col-item{
+    width:calc(100% / 3);
+}
+
+
+
+
